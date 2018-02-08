@@ -1,0 +1,5 @@
+rootProject.name = 'sobm'
+include 'gen'
+include 'store'
+include 'store'
+
